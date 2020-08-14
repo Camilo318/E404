@@ -1,0 +1,13 @@
+@import "tailwindcss/base";
+
+@import "tailwindcss/components";
+
+@import "tailwindcss/utilities";
+
+.logo {
+    font-family: 'Inconsolata';
+}
+
+.message {
+    font-family: 'Space Mono';
+}
